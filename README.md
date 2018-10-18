@@ -1,2 +1,2 @@
-# decentralization-method-sheet
+# Design Thinking for Blockchains
 Decentralization Method Sheet
