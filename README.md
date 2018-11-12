@@ -17,4 +17,5 @@ https://medium.com/patara/design-thinking-for-blockchains-ded1d6cabe53
 **Web3 Summit Node 01: Design Thinking for Blockchains**
 
 https://2018.web3summit.com/node/node-01/
+
 https://medium.com/patara/design-thinking-for-blockchains-web3-summit-2018-fc61be5570f3
