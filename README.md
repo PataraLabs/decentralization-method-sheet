@@ -6,7 +6,7 @@ Considering blockchains will have a significant impact on all walks of life, pro
 
 We utilized this method in [Design Thinking for Blockchains workshops](http://patara.io/workshop/), where participants with little to no technical background were able to partake in designing new protocols.
 
-[Download Method Sheet v0.2](https://github.com/DesignThinkingBlockchains/decentralization-method-sheet/raw/master/decentralization-method-sheet.pdf)
+**[Download Method Sheet v0.2](https://github.com/DesignThinkingBlockchains/decentralization-method-sheet/raw/master/decentralization-method-sheet.pdf)**
 
 ### Read more about Design Thinking for Blockchains
 
