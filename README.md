@@ -8,7 +8,7 @@ We utilized this method in [Design Thinking for Blockchains workshops](http://pa
 
 **[Download Method Sheet v0.2](https://github.com/DesignThinkingBlockchains/decentralization-method-sheet/raw/master/decentralization-method-sheet.pdf)**
 
-### Read more about Design Thinking for Blockchains
+### Articles about the method and the workshop
 
 - [A method for exploring decentralization opportunities](https://medium.com/patara/design-thinking-for-blockchains-ded1d6cabe53)
 
